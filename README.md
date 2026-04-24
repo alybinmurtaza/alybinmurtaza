@@ -9,7 +9,7 @@
 
 ## :dart: About Me
 <div align="center">
-  <img src="LINK_TO_UPLOADED_GIF_HERE" width="500" alt="AI Animation"/>
+  <img src="Christian-Dior" width="500" alt="AI Animation"/>
 </div>
 
 <p align="center">
