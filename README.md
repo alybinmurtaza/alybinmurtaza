@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hassan%20Ali%20Murtaza&fontSize=70&fontAlignY=35&desc=Partner%20at%20SmartLogics%20LLC%20%7C%20MLOps%20%26%20Data%20Science&descAlignY=55&descAlign=50" width="100%"/>
-</div>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hassan%20Ali%20Murtaza&fontSize=70&fontAlignY=35&desc=Partner%20at%20SmartLogics%20LLC%20%7C%20MLOps%20and%20Data%20Science&descAlignY=55&descAlign=50" width="100%"/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&lines=Partner+at+SmartLogics+LLC;MLOps+%26+Data+Science;Building+Scalable+AI+Systems;Tech+Leadership" alt="Typing SVG" />
