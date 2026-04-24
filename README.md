@@ -1,25 +1,25 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hassan%20Ali%20Murtaza&fontSize=70&fontAlignY=35&desc=Partner%20at%20SmartLogics%20LLC%20%7C%20Business%20Strategy%20%26%20Tech%20Leadership&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hassan%20Ali%20Murtaza&fontSize=70&fontAlignY=35&desc=Partner%20at%20SmartLogics%20LLC%20%7C%20MLOps%20%26%20Data%20Science&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&lines=Partner+at+SmartLogics+LLC;Tech+Leadership;Business+Strategy;Network+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&lines=Partner+at+SmartLogics+LLC;MLOps+%26+Data+Science;Building+Scalable+AI+Systems;Tech+Leadership" alt="Typing SVG" />
 </div>
 
 <br>
 
 ## :dart: About Me
 <div align="center">
-  <img src="./Christian-Dior.gif" width="500" alt="AI Animation"/>
+  <img src="LINK_TO_UPLOADED_GIF_HERE" width="500" alt="AI Animation"/>
 </div>
 
 <p align="center">
-  <em>"Driving innovation and building robust business networks to scale tech solutions and empower teams."</em>
+  <em>"Driving innovation and building scalable, secure AI systems to empower teams and businesses."</em>
 </p>
 
 <div align="center">
 
-:brain: Working on **Strategic Growth, Team Leadership, and Operations at SmartLogics LLC** :seedling: Exploring **Tech Entrepreneurship & Scalable Business Models** :handshake: Open to collaborate on **Innovative Tech Ventures & Startups** :speech_balloon: Ask me about **Business Strategy, Networking & Management**
+:brain: Working on **Strategic Growth, Team Leadership, and Operations at SmartLogics LLC** :seedling: Exploring **MLOps, Data Science & Scalable AI Infrastructure** :handshake: Open to collaborate on **Innovative Tech Ventures & Startups** :speech_balloon: Ask me about **Business Strategy, Python, & AWS**
 
 </div>
 
@@ -36,19 +36,19 @@
 
 ## :hammer_and_wrench: Tech & Business Stack
 
-### :computer: Leadership & Strategy
+### :computer: MLOps & Data Science
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=idea,rocket,trendingup,users&theme=dark" alt="Leadership"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas&theme=dark" alt="MLOps"/>
 </p>
 
-### :gear: Core Technologies
+### :gear: Core Technologies & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,aws,docker&theme=dark" alt="Core Tech"/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,html,css,js&theme=dark" alt="Core Tech"/>
 </p>
 
 ### :toolbox: Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma&theme=dark" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="Tools"/>
 </p>
 
 ---
@@ -67,26 +67,26 @@
 ## :bar_chart: GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HassanAliMurtaza&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alybinmurtaza&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 <br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HassanAliMurtaza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6A5ACD&icon_color=6A5ACD&text_color=FFFFFF" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanAliMurtaza&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A5ACD&text_color=FFFFFF" alt="Most Used Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alybinmurtaza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6A5ACD&icon_color=6A5ACD&text_color=FFFFFF" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alybinmurtaza&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A5ACD&text_color=FFFFFF" alt="Most Used Languages"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HassanAliMurtaza&theme=tokyonight&hide_border=true&background=0D1117&stroke=6A5ACD&ring=6A5ACD&fire=FF6B6B&currStreakLabel=6A5ACD" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alybinmurtaza&theme=tokyonight&hide_border=true&background=0D1117&stroke=6A5ACD&ring=6A5ACD&fire=FF6B6B&currStreakLabel=6A5ACD" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HassanAliMurtaza&bg_color=0D1117&color=6A5ACD&line=6A5ACD&point=FF6B6B&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alybinmurtaza&bg_color=0D1117&color=6A5ACD&line=6A5ACD&point=FF6B6B&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -100,9 +100,9 @@
 
 ## :chart_with_upwards_trend: Profile Metrics
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=HassanAliMurtaza&color=6A5ACD&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/HassanAliMurtaza?label=Followers&style=for-the-badge&color=6A5ACD&labelColor=000000" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/github/stars/HassanAliMurtaza?label=Stars&style=for-the-badge&color=6A5ACD&labelColor=000000" alt="GitHub Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=alybinmurtaza&color=6A5ACD&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/alybinmurtaza?label=Followers&style=for-the-badge&color=6A5ACD&labelColor=000000" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/alybinmurtaza?label=Stars&style=for-the-badge&color=6A5ACD&labelColor=000000" alt="GitHub Stars"/>
 </div>
 
 <br>
